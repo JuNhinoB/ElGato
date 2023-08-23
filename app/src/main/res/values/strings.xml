@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ElGato</string>
+    <string name="title_activity_game">GameDisplay</string>
+    <string name="appTitle">#ElGato#</string>
+    <string name="playButton">Jugar</string>
+    <string name="exitButton">Salir</string>
+    <string name="playerSetup">Ingresen su nickName</string>
+    <string name="Label1">Jugador 1</string>
+    <string name="Label2">Jugador 2</string>
+    <string name="submitButton">Aceptar</string>
+    <string name="NameHint">Ingresa tu nombre mierda</string>
+    <string name="playAgainButton">Jugar Otra vez</string>
+    <string name="homeButton">Inicio</string>
+    <string name="tieGame">Tie Game!!!!!!!!!!!!!</string>
+</resources>
